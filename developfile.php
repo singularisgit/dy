@@ -1,3 +1,3 @@
 public function init() {
-	var_dump("German Huesos!");
+	var_dump("German Huesos and PETUXX!");
 }
